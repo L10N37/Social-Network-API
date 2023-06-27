@@ -14,6 +14,7 @@ A backend API for a social network application that allows users to share their 
 - [Contributing](#contributing)
 - [License](#license)
 - [Examples](#examples)
+- [Route-Testing-Video](#route-testing-video)
 
 ## Description
 
@@ -95,4 +96,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Examples
 
 [Here is a more concise guide on the use of routes](EXAMPLES.md).
+
+## Route-Testing-Video
+
+https://youtu.be/0s3dqBxeup4
 
